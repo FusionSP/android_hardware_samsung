@@ -42,6 +42,7 @@ extern "C" {
 #include <unistd.h>
 #include <errno.h>
 #include <fcntl.h>
+#include <asm/sizes.h>
 
 #include <sys/ioctl.h>
 #include <sys/types.h>
